@@ -1,0 +1,14 @@
+D:\TestCode\TotalConsole\Total_Console\bin\Debug\net9.0\Total_Console.exe
+D:\TestCode\TotalConsole\Total_Console\bin\Debug\net9.0\Total_Console.deps.json
+D:\TestCode\TotalConsole\Total_Console\bin\Debug\net9.0\Total_Console.runtimeconfig.json
+D:\TestCode\TotalConsole\Total_Console\bin\Debug\net9.0\Total_Console.dll
+D:\TestCode\TotalConsole\Total_Console\bin\Debug\net9.0\Total_Console.pdb
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.AssemblyInfoInputs.cache
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.AssemblyInfo.cs
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.csproj.CoreCompileInputs.cache
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.dll
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\refint\Total_Console.dll
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.pdb
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\Total_Console.genruntimeconfig.cache
+D:\TestCode\TotalConsole\Total_Console\obj\Debug\net9.0\ref\Total_Console.dll
